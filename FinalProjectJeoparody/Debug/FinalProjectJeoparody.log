@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\james l\finalprojectjeoparody\finalprojectjeoparody\source.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalProjectJeoparody.vcxproj -> E:\James L\FinalProjectJeoparody\Debug\FinalProjectJeoparody.exe
+  FinalProjectJeoparody.vcxproj -> E:\James L\FinalProjectJeoparody\Debug\FinalProjectJeoparody.pdb (Full PDB)
